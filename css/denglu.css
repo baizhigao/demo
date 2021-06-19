@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+    font-size: 12px;
+}
+body{
+    background-color: #f0f2f5; 
+    width: 100%;
+    height: 100%;
+}
+.zhuti{
+    width: 1147px;
+    /* height: 690px; */
+    /* background-color: tomato; */
+    margin: 0 auto;
+    height: 784px;
+}
+.zhuti .left{
+    width:675px ;
+    float:left;
+    /* height: 691px; */
+}
+.zhuti .tu1{
+    margin-left: 188px;
+    margin-bottom: 74px;
+ 
+}
+.zhuti .datu{
+    float: left;
+}
+.biaodan{
+    width: 420px;
+    height: 615px;
+    background-color: #fff;
+    float: left;
+    margin-left: 52px;
+    margin-top:76px ;
+}
+.biaodan dl{
+    text-align: center;
+}
+.biaodan dl dt{
+    margin-top: 30px;
+}
+.biaodan dl dd{
+    margin-top: 22px;
+    font-size: 18px;
+}
+
+.form{
+    width: 358px;
+    height: 46px;
+    border: 1px solid #dedfe0;
+    margin: 0 auto;
+    margin-top: 63px;
+}
+.fleft{
+    line-height: 46px;
+    margin-left: 7px;
+    float: left;
+}
+.fleft span:nth-child(1){
+    margin-right: 19px;
+}
+.shuru input{
+    width: 273px;
+    height: 46px;
+    border: none;
+    /* background-color: tomato; */
+    margin-left:18px ;
+    outline: none;
+}
+
+.mima input{
+    width: 346px;
+    height: 45px;
+   border:1px solid #dedfe0;
+    outline:none;
+    margin-top: 15px;
+    padding-left: 10px;
+}
+
+.gou{
+    /* float: right; */
+    margin-top: 19px;
+    margin-bottom: 25px;
+    /* background-color: tomato; */
+    width: 360px;
+    height: 18px;
+}
+.gou span{
+    float: right;
+}
+.gou input{
+    float: right;
+}
+
+
+
+.denglu{
+    width:360px ;
+    height: 48px;
+    background-color:#428aff ;
+    
+    text-align: center;
+    line-height:48px ;
+    border: none;
+    color: azure;
+    font-size: 18px;
+}
+.denglu a{
+    font-size: 18px;
+    color: #fff;
+}
+
+.zhuce{
+    width:358px ;
+    height: 46px;
+   margin-top: 16px;
+    border:1px solid #456fff;
+    text-align: center;
+    line-height:48px ;
+}
+.zhuce a{
+    font-size: 18px;
+    color: #456fff;
+}
+.form p{
+    text-align: center;
+    margin-top: 24px;
+}
+
+.foot{
+    height: 160px;
+    background-color: #fff;
+    text-align: center;
+}
+.foot p:nth-child(1){
+    padding-top:50px ;
+}
+.foot p:nth-child(2){
+    margin-top:10px ;
+}

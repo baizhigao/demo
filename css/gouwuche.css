@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: #ccc;
+}
+ table tbody tr td,table tfoot tr td,table thead tr td{
+    vertical-align: middle;
+}

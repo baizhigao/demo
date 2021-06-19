@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+    font-size: 12px;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #f7f7f7;
+}
+.zhuce{
+    width:860px ;
+    height: 670px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.zhuce dl{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.zhuce dl dd{
+    margin-top: 37px;
+    font-size: 18px;
+}
+.k1,.k3,.k4{
+    width: 358px;
+    height: 46px;
+    border:1px solid #dedfe0;
+    line-height: 46px;
+    margin: 0 auto;
+    display: block;
+    outline: none;
+   
+}
+.k3{
+    margin-top: 30px;
+}
+
+
+.zs1{
+    width: 358px; ;
+    /* background-color: tomato; */
+    margin: 0 auto;
+    margin-top: 14px;
+    margin-bottom: 16px;
+    color: #b1b3b6;
+}
+
+
+
+.k2{
+    width: 358px;
+    height: 46px;
+    border:1px solid #dedfe0;
+    line-height: 46px;
+    margin: 0 auto;
+    margin-top: 20px; 
+   
+}
+.fleft{
+    line-height: 46px;
+    margin-left: 7px;
+    float: left;
+    /* background-color: teal; */
+
+}
+.fleft span:nth-child(1){
+    margin-right: 13px;
+}
+.shuru{
+    float: right;
+}
+.shuru input{
+    width: 273px;
+    height: 43px;
+     border: none;
+     /* background-color: tomato;  */
+    
+    outline: none;
+}
+
+
+
+
+.gou{
+    /* float: right; */
+    margin-top: 19px;
+    margin-bottom: 25px;
+    /* background-color: tomato;  */
+    width: 360px;
+    height: 18px;
+    margin: 0 auto;
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
+
+
+
+
+.xyb{
+    width:360px ;
+    height: 48px;
+    background-color:#428aff ;
+    
+    text-align: center;
+    line-height:48px ;
+    margin: 0 auto;
+}
+.xyb a{
+    font-size: 18px;
+    color: #fff;
+}
+
+
+.form p{
+    text-align: center;
+    margin-top: 24px;
+}
+
+.foot{
+    height: 160px;
+    
+    text-align: center;
+}
+.foot p:nth-child(1){
+    padding-top:70px ;
+}
+.foot p:nth-child(2){
+    margin-top:10px ;
+    color: rgb(131, 130, 128);
+}
